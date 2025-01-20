@@ -43,6 +43,11 @@ To generate summaries, run the `app.py` script:
 ```bash
 streamlit run app.py
 ```
+---
+
+## 📊 Flowchart of the Process
+
+![Flowchart](flowchart.png)
 
 ---
 
