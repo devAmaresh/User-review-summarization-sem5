@@ -5,7 +5,7 @@
 ---
 
 ## ✨ Features  
-- **Summarization** 📝: Enhances large language models (LLMs) using **Multi-Objective Forward Reasoning** and **Multi-Reward Backward Refinement**, inspired by [Sun et al., 2023](https://openreview.net/forum?id=06VYW37Shd).  
+- **Summarization** 📝: Enhances large language models (LLMs) using **Multi-Objective Forward Reasoning** and **Multi-Reward Backward Refinement**, inspired by [Sun et al., 2024](https://openreview.net/forum?id=06VYW37Shd).  
 - **Classification** 📊: Utilizes fine-tuned BERT models for accurate product review categorization.  
 - **Datasets** 📚: Curated datasets, including **Product-CSum**, and additional datasets using the Gemini framework, for training and evaluation.  
 
